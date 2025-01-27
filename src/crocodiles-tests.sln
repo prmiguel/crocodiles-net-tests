@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Crocodiles.Tests", "Net.Crocodiles.Tests\Net.Crocodiles.Tests.csproj", "{DA09F6B3-5EF0-47F3-9A49-654CC90532E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Crocodiles.Core", "Net.Crocodiles.Core\Net.Crocodiles.Core.csproj", "{EFE10582-94AC-45FC-BD23-829DE7195C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA09F6B3-5EF0-47F3-9A49-654CC90532E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA09F6B3-5EF0-47F3-9A49-654CC90532E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA09F6B3-5EF0-47F3-9A49-654CC90532E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA09F6B3-5EF0-47F3-9A49-654CC90532E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE10582-94AC-45FC-BD23-829DE7195C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE10582-94AC-45FC-BD23-829DE7195C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE10582-94AC-45FC-BD23-829DE7195C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE10582-94AC-45FC-BD23-829DE7195C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
